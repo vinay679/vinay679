@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vinay 👋
 
-<!--
-**vinay679/vinay679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BCA Student
+- 💻 Full Stack JavaScript Developer
+- 🔥 Preparing for GSoC 2026
+- 🌱 Currently learning System Design & Open Source Development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- MongoDB / PostgreSQL
+- Docker (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- Contributing to Open Source
+- Building production-ready full stack applications
+- Improving problem solving & DSA
+
+## 📌 2026 Goals
+- Get selected for Google Summer of Code
+- Become strong in system design
+- Build impactful open-source contributions
+
+---
+
+⭐ Always building. Always improving.
