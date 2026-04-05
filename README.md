@@ -1,27 +1,39 @@
 # Hi, I'm Vinay 👋
 
+💻 Frontend Developer  
+📍 Gurgaon, India  
+
+---
+
 ## 🚀 About Me
-- 🎓 BCA Student
-- 💻 Full Stack JavaScript Developer
-- 🔥 Preparing for GSoC 2026
-- 🌱 Currently learning System Design & Open Source Development
+- BCA Student  
+- Skilled in Frontend Development  
+- Basic Data Analytics using Excel  
+- Focused on building real-world projects  
 
-## 🛠 Tech Stack
-- JavaScript / TypeScript
-- React / Next.js
-- Node.js / Express
-- MongoDB / PostgreSQL
-- Docker (Basics)
+---
 
-## 🎯 Current Focus
-- Contributing to Open Source
-- Building production-ready full stack applications
-- Improving problem solving & DSA
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript  
+- React (Basics)  
+- Excel (SUM, IF, VLOOKUP, Charts)
 
-## 📌 2026 Goals
-- Get selected for Google Summer of Code
-- Become strong in system design
-- Build impactful open-source contributions
+
+
+### 🍽️ Restaurant Website
+Responsive website for The Weekly Menu  
+🔗 Live: https://theweeklymenu.in/
+
+## 🎯 Future Goals
+- Learning Backend Development (Node.js, Express)  
+- Becoming a Full Stack Developer  
+- Building real-world scalable applications  
+
+
+
+## 📫 Contact
+📧 rawalvinay939@gmail.com  
+🔗 GitHub: https://github.com/vinay679  
 
 ---
 
